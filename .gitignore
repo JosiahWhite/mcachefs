@@ -1,0 +1,6 @@
+.vscode
+*.swp
+node_modules
+cachefs.img
+debug.log
+mcachefs
